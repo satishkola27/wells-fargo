@@ -2,7 +2,16 @@ test-report.html
 target/
 *.retry
 *.swp
+<<<<<<< HEAD
 kdfjsakf
 new line
 new line 2
 
+=======
+
+**/*.jar
+Hi
+how
+are 
+you
+>>>>>>> d3cad54... testing
