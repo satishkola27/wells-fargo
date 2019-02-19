@@ -2,9 +2,22 @@ test-report.html
 target/
 *.retry
 *.swp
+ new2
+=======
+ HEAD
+kdfjsakf
+new line
+new line 2
+
+
+ master
 
 **/*.jar
 Hi
 how
 are 
 you
+ new2
+=======
+ d3cad54... testing
+ master

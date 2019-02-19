@@ -1,0 +1,20 @@
+commit 11af78c283a77813e6b4cc467c280a2da99053db (HEAD -> master, tag: newtag, rebase-demo, newtag)
+Merge: 8035c38 51220c6
+Author: Satishkola <knvsatish@gmail.com>
+Date:   Mon Feb 18 16:26:34 2019 +0530
+
+    Changes
+
+commit 51220c6c117ace8c90c475230a86ac3777bebcd2 (new2)
+Author: Satishkola <knvsatish@gmail.com>
+Date:   Mon Feb 18 16:23:57 2019 +0530
+
+    changes to file1
+
+commit 8035c385f99cee16d06286e2c7fc4ed1b31014e7
+Merge: e9ad9aa 521d157
+Author: Satishkola <knvsatish@gmail.com>
+Date:   Mon Feb 18 16:18:09 2019 +0530
+
+    Merge branch 'new2'
+This is new change
