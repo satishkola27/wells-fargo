@@ -2,5 +2,9 @@ test-report.html
 target/
 *.retry
 *.swp
-kdfjsakf
-new line
+
+**/*.jar
+Hi
+how
+are 
+you
